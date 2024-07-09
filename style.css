@@ -141,3 +141,28 @@ text-align: left;
     border: 1px solid black;
     border-radius: 5px;
 }
+/* section-2 */
+.section-2{
+  width: 820px;
+  height: 650px;
+  margin: 0 auto;
+  border: 2px solid red;
+  margin-top: 80px;
+}
+.section-2-1{align-items: center;
+    text-align: center;
+margin-bottom: 40px;}
+.section-2-1 h3{
+    font-size: 30px;
+    font-weight: 800px;
+    line-height: 30px;
+}
+.section-2-1 p{
+    font-size: 15px;
+    font-weight: 400px;
+}
+.section-2-2{
+    width: 95%;
+    height: 480px;
+    margin: 0 auto;
+}
