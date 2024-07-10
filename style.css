@@ -8,30 +8,6 @@ height: 680px;
 width: 1250px;
 margin-bottom: 80px;
 }
-.header nav{
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: space-between;
-    width: 80%;
-    margin: 0 auto;
-
-}
-.header nav h1{
-    color:#101624;
-    font-size: 24px;
-font-weight: 800;
-}
-.header nav button{
-    color:#50545F;
-font-size: 15px;
-font-weight: 600;
-line-height: 20px;
-text-align: center;
-padding: 10px;
-background-color: white;
-border-radius: 5px;
-}
 .header-container{
     height: 560px;
     width: 100%;
