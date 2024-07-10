@@ -5,7 +5,7 @@
 /* header desing */
 .header{
 height: 680px;
-width: 1050px;
+width: 1250px;
 margin-bottom: 80px;
 }
 .header nav{
@@ -357,15 +357,16 @@ form button{
 /* footer section */
 footer{
     background-color: #f7f8f8;
-    width: 1050;
+    width: 1250;
     height: 100px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0px 210px;
 }
 footer div{
     gap: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 footer div h2{
     font-size: 20px ;
@@ -374,4 +375,5 @@ footer div h2{
 footer div img:hover{
     background-color: #a1a4a8;
     border-radius: 10px;
+
 }
